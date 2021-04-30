@@ -40,7 +40,7 @@ gem 'devise'
 gem 'jquery-rails'
 
 gem 'chart-js-rails'
-gem 'gon', '~> 6.2.0'
+gem 'gon', '~> 6.4.0'
 
 gem 'serviceworker-rails'
 
